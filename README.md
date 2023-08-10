@@ -37,7 +37,7 @@ Contributions to improve this game are welcome! If you'd like to contribute, ple
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.md).
 
 ## Contact
 
